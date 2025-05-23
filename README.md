@@ -1,6 +1,6 @@
 # 🎫 Ticket Management System
 
-![Laravel](https://img.shields.io/badge/Laravel-10.x-red.svg)
+![Laravel](https://img.shields.io/badge/Laravel-12.x-red.svg)
 ![PHP](https://img.shields.io/badge/PHP-8.1+-blue.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-5.7+-blue.svg)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-purple.svg)
